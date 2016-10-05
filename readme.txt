@@ -37,3 +37,15 @@ python: Python 2.7.6
 perl: perl v5.18.2
 bash: GNU bash, version 4.3.11(1)-release
 grep: grep (GNU grep) 2.16
+
+For issues documentation we use:
+CGDE in Universal dependencies in CoNLL format: 
+[1] bosque_CP.udep.conll.gz,
+[2] bosque_CF.udep.conll.gz 
+Last modification March, 22 2016, version 7.5, by Eckhard Bick
+Available at: http://www.linguateca.pt/floresta/levantamento.html
+
+To compare [1] and [2] to other Bosque Versions, we use [3] and [4]
+
+[3]7.3 Bosque version, converted by  Dan Zeman, available at https://github.com/UniversalDependencies/UD_Portuguese
+[4]7.3 made available by Linguateca Team, CoNLL format, at http://www.linguateca.pt/floresta/CoNLL-X/
